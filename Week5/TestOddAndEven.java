@@ -1,5 +1,3 @@
-// Week 5 Question 1
-
 package Week5;
 import java.util.Scanner;
 
